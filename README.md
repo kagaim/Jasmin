@@ -1,6 +1,8 @@
 # Jasmin
 #### FREE Minimal WordPress Blog Theme
 
+[![WordPress](https://img.shields.io/wordpress/v/akismet.svg?style=flat-square)]()
+
 Jasmin is a theme built on the foundations of flat design and color dominance (for brand emphasis and  being memorable).
 
 This theme is perfect for bloggers, who desire that their content be the centre of focus. With support for all post formats, jasmin does not limit you on the content to publish or how to publish it, it adapts. Customizability and simplicity of setup comes number one with this theme, get started now in a matter of minutes.
