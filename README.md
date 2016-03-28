@@ -17,5 +17,7 @@ This theme is perfect for bloggers, who desire that their content be the centre 
 
 #### [View Demo](http://bit.ly/demo_jasmin "Jasmin WP theme demo")
 
+The sample images in the demo preview are courtesy of [Pixabay](https://pixabay.com).
+
 ##### Thank you for browsing by, for any questions or comments or feedback, I would love to hear from you through this project's Issues tab.
 
