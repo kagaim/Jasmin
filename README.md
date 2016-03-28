@@ -15,5 +15,7 @@ This theme is perfect for bloggers, who desire that their content be the centre 
 + Theme Options Powered by WordPress’ Customizer
 + 10 different post formats: Standard, Video, Gallery, Audio, Aside, Image, Quote, Link, Status and Chat Posts
 
+#### [View Demo](http://bit.ly/demo_jasmin "Jasmin WP theme demo")
+
 ##### Thank you for browsing by, for any questions or comments or feedback, I would love to hear from you through this project's Issues tab.
 
