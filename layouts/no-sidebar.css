@@ -1,0 +1,33 @@
+/*
+Theme Name: jasmin
+Layout: No sidebar
+*/
+
+.content-area {
+    width:100%;
+    padding: 0;
+    margin: 0;
+}
+
+.site-footer {
+    clear: both;
+    width: 100%;
+}
+
+.entry-header,
+.entry-content,
+.entry-meta,
+.entry-footer,
+.tag-links,
+.post-navigation,
+.comments-area,
+.paging-navigation {
+    position: relative;
+}
+
+.form-allowed-tags,
+textarea {
+    width: 70%;
+}
+
+

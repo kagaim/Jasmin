@@ -1,0 +1,61 @@
+/*
+Theme Name: jasmin
+Layout: Content-Sidebar
+*/
+
+.content-area {
+    width:730px;
+    float:left;
+    padding: 0;
+    margin-right:30px;
+}
+
+.site-content .widget-area {
+    width: 320px;
+    float: right;
+    padding: 0;
+}
+.site-footer {
+    clear: both;
+    width: 100%;
+}
+
+.entry-header,
+.entry-content,
+.entry-meta,
+.entry-footer,
+.tag-links,
+.post-navigation,
+.comments-area,
+.paging-navigation {
+    position: relative;
+}
+
+@media only screen and (min-width: 942px) and (max-width: 1170px) {
+    .content-area {
+        width:650px;
+        float:left;
+        margin-right:30px;
+    }
+    
+    .site-content .widget-area {
+        width:260px;
+        float:right;
+    }
+}
+
+@media only screen and (max-width: 960px) {
+    .content-area {
+        width:100%;
+        float:none;
+        margin-right:0;
+    }
+    
+    .site-content .widget-area {
+        width:100%;
+        float:none;
+    }
+}
+
+
+
