@@ -31,7 +31,7 @@
             <?php jasmin_posted_on(); ?>
             <?php 
                 if ( ! post_password_required() && ( comments_open() || '0' != get_comments_number() ) ) { 
-                    echo '<span class="comments-link"><i class="fa fa-comments-o"></i> ';
+                    echo '<span class="comments-link"><i class="fas fa-comments"></i> ';
                     comments_popup_link( __( 'Leave a comment', 'jasmin' ), __( '1 Comment', 'jasmin' ), __( '% Comments', 'jasmin' ) );
                     echo '</span>';
                 }

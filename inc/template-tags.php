@@ -132,8 +132,8 @@ function jasmin_paging_nav() {
         'current'  => $paged,
         'mid_size' => 2,
         'add_args' => array_map( 'urlencode', $query_args ),
-        'prev_text' => __( '<i class="fa fa-arrow-circle-o-left"></i> Previous', 'jasmin' ),
-        'next_text' => __( 'Next <i class="fa fa-arrow-circle-o-right"></i>', 'jasmin' ),
+        'prev_text' => __( '<i class="fas fa-arrow-alt-circle-left"></i> Previous', 'jasmin' ),
+        'next_text' => __( 'Next <i class="fas fa-arrow-alt-circle-right"></i>', 'jasmin' ),
         'type'      => 'list',
     ) );
 
